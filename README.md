@@ -12,7 +12,7 @@ Kekurangan :
 - Belum menggunakan Auth untuk login.
 - Belum menggunakan database seed.
 - Belum mengolah data gambar (image)
-
+----------------------------------------------------------------------------------------------------------------
 
 1. Masuk ke dalam menu Login
 <p align="center">
