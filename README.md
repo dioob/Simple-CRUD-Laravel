@@ -38,4 +38,9 @@ Kekurangan :
 <p align="center">
   <img src="https://github.com/dioob/Simple-CRUD-Laravel/blob/master/Screenshot_21.png">
 </p>
-</br>
+
+6. Tampilan data dalam database.
+<p align="center">
+  <img src="https://github.com/dioob/Simple-CRUD-Laravel/blob/master/Screenshot_22.png">
+</p>
+
